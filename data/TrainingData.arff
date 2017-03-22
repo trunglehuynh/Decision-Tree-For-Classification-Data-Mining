@@ -1,0 +1,18 @@
+@relation TrainingData
+
+@attribute Refund {Yes, No}
+@attribute MaritalStatus {Single, Married, Divorced}
+@attribute Income numeric
+@attribute Cheat {Yes, No}
+
+@data
+No, Single, 291, No
+Yes, Single, 316, Yes
+Yes, Single, 251, No
+No, Married, 335, No
+No, Married, 316, Yes
+No, Divorced, 287, Yes
+Yes, Single, 373, No
+Yes, Divorced, 349, No
+Yes, Single, 288, Yes
+Yes, Single, 209, No
